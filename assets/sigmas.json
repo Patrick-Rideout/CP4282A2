@@ -1,0 +1,22 @@
+[
+  {
+  "name": "Steve Gobs",
+  "dateOfBirth": 1955,
+  "powers": ["Death laser", "Break dancing", "Owning apple"],
+  "imageIndex": 0
+  },
+  {
+    "name": "James Dean",
+    "dateOfBirth": 1931,
+    "powers": ["FEATURED IN TAYLOR SWIFT SONG ", "Lived before internet", "Lived before inflation"],
+    "imageIndex": 1
+  },
+  {
+    "name": "Muhammed Ali",
+    "dateOfBirth": 1955,
+    "powers": ["Speed", "Power", "Became presidant on South Africa"],
+    "imageIndex": 2
+  }
+
+
+]
